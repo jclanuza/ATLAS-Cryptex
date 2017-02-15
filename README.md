@@ -1,17 +1,31 @@
 # ATLAS-Cryptex
+        _   _                                   _            
+#   __ _| |_| | __ _ ___    ___ _ __ _   _ _ __ | |_ _____  __
+#  / _` | __| |/ _` / __|  / __| '__| | | | '_ \| __/ _ \ \/ /
+# | (_| | |_| | (_| \__ \ | (__| |  | |_| | |_) | ||  __/>  < 
+#  \__,_|\__|_|\__,_|___/  \___|_|   \__, | .__/ \__\___/_/\_\
+#                                    |___/|_|                 
+
 Simple example of ransomware execution 
  
- ATLAS XOR Cryptex es un ramsomware de tipo demostrativo el cual cifra archivos usando el sistema XOR convencional
- en combinacion de una pasada XOR combinacional de segunda ronda de una key periodicamente preestablecida con 
+ATLAS XOR Cryptex es un ramsomware de tipo demostrativo el cual cifra archivos usando el sistema XOR convencional
+en combinacion de una pasada XOR combinacional de segunda ronda de una key periodicamente preestablecida con 
 claves de coma flotante.
-	 
-La funcion de autoreplicación y escaneo de directorios para cifrado automatico de disco esta deshabilitado
-por propositos de solo enseñanza de como trabaja un mecanismo semicomplejo de ransomware.
+
+El código como tal es para enseñar como funciona de manera muy simple un ransomware de manera muy controlada,
+si deseas hacer uso practico de el en demos de seguridad o criptografia solo es necesario cambiar una porcion de código,
+actualmente 14 de May 2017 no es detectado por ningun antivirus, aunque el cifrado no es tan complejo y puede ser resuelte por
+metodos criptograficos en poco tiempo , esto en caso de accidentes (tambien porque es para explicar sencillamente su funcionamiento).
+
+La funcion de autoreplicación esta deshabilitado
+por propositos de solo enseñanza de como trabaja 
+un mecanismo semicomplejo de ransomware.
 	 
 En esta version el escaneo de ficheros en determinados directorios esta activado y cifrara cualquier archivo
 en su interior.
 	 
-
-Code ready for Windows, Linux, MAC, BSD
+--------------------------------------------
+Code ready for --> Windows, Linux, MAC, BSD
 Juan Carlos Lanuza L. | MGA > 3/02/2017	
 Lansoft | ATLAS Department of CyberSecurity
+--------------------------------------------
