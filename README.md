@@ -1,4 +1,4 @@
-# ATLAS-XOR-Cryptex
+# ATLAS-Cryptex
 Simple example of ransomware execution 
  
  ATLAS XOR Cryptex es un ramsomware de tipo demostrativo el cual cifra archivos usando el sistema XOR convencional
