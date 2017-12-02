@@ -18,14 +18,12 @@
 	 En esta version el escaneo de ficheros en determinados directorios esta activado y cifrara cualquier archivo
 	 en su interior.
 	 
-	 ****************************************************************
-	||																															||
+	 ****************************************************************																			||
 	|||------------------------------------------------------------|||
-	||| Available in amd64, i386, armhf,ARM, RISC, Itanium:				 |||
-	||| Juan Carlos Lanuza L. | MGA > 3/02/2017 									 |||
-	||| Lansoft 	| ATLAS Department of CyberSecurity							 |||
-	|||------------------------------------------------------------|||
-	||																															||
+	||| Available in amd64, i386, armhf,ARM, RISC, Itanium:	       |||
+	||| Juan Carlos Lanuza L. | MGA > 3/02/2017 		       |||
+	||| ATLAS Laboratories | Cryptography Research Laboratory      |||
+	|||------------------------------------------------------------|||																							||
 	 ****************************************************************	
 */
 
