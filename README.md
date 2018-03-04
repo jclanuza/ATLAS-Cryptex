@@ -17,8 +17,8 @@ un mecanismo semicomplejo de ransomware.
 En esta version el escaneo de ficheros en determinados directorios esta activado y cifrara cualquier archivo
 en su interior.
 	 
---------------------------------------------
+------------------------------------------------------
 Code ready for --> Windows, Linux, MAC, BSD
 Juan Carlos Lanuza L. | MGA > 3/02/2017	
-Lansoft | ATLAS Department of CyberSecurity
---------------------------------------------
+ATLAS Laboratories | Mark Security Research Laboratory
+------------------------------------------------------
