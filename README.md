@@ -19,5 +19,4 @@ en su interior.
 	 
 ------------------------------------------------------
 
-Juan Carlos Lanuza L. | MGA > 3/02/2017	
 ATLAS Laboratories | Mark Security Research Laboratory
