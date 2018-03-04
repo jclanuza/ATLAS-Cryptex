@@ -18,7 +18,6 @@ En esta version el escaneo de ficheros en determinados directorios esta activado
 en su interior.
 	 
 ------------------------------------------------------
-Code ready for --> Windows, Linux, MAC, BSD
+
 Juan Carlos Lanuza L. | MGA > 3/02/2017	
 ATLAS Laboratories | Mark Security Research Laboratory
-------------------------------------------------------
